@@ -1,4 +1,5 @@
 <?php
+//for test
 include './php/SocketLog.class.php';
 //配置
 slog(array(

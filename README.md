@@ -1,4 +1,4 @@
-#说明
+#说明 from part2
  * SocketLog方便API，AJAX的调试，能将日志通过WebSocket输出到Chrome浏览器的console中
  * 它能代替ChromePHP、FirePHP等工具，ChromePHP等是通过header通信，适合AJAX调试，但不适合API调试，而且它们是通过Header通信，Chrome浏览器对传递Header大小有限制，日志如果多了，Chrome浏览器就无法支持。
  * 目录结构：
